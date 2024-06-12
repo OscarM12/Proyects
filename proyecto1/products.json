@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"MacBook Air",
+        "price": 24599,
+        "image":"public/img1.jpg"
+    },
+    {
+        "id":2,
+        "name":"Iphone 15 pro",
+        "price": 28599,
+        "image":"public/img2.jpg"
+    },
+    {
+        "id":3,
+        "name":"Ipad Pro",
+        "price": 20599,
+        "image":"public/img3.jpg"
+    },
+    {
+        "id":4,
+        "name":"Apple Watch Series 9",
+        "price": 8599,
+        "image":"public/img4.jpg"
+    }
+]
